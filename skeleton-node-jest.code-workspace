@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "root"
+    },
+    {
+      "path": "./src",
+      "name": "project"
+    },
+    {
+      "path": "./test",
+      "name": "tests"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "files.exclude": {
+      "**/.vscode": true,
+      "**/node_modules": true,
+      "**/src": true,
+      "**/test": true,
+      "skeleton-node-jest.code-workspace": true
+    }
+  }
+}
